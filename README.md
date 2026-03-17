@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Table of Contents
+## 📌 Table of Content
 
 - [Project Overview](#-project-overview)
 - [Dataset Description](#-dataset-description)
