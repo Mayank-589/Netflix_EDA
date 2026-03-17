@@ -122,7 +122,7 @@ Netflix_EDA/
 
 ## 📊 Visualizations
 
-The notebook includes 9 visualizations:
+The notebook includes 9 visualizations:-
 
 - Content type pie chart & bar chart
 - Rating distribution bar chart
